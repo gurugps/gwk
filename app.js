@@ -8,6 +8,18 @@ var myLogger = function (req, res, next) {
 
 app.use(myLogger)
 
-app.get('/', function (req, res) {
+app.get('/img/', function (req, res) {
+  res.send('Guru Weds Keerthi')
+})
+
+app.get('/vendor/', function (req, res) {
+  res.send('Guru Weds Keerthi')
+})
+
+app.get('/js/', function (req, res) {
+  res.send('Guru Weds Keerthi')
+})
+
+app.get('/css/', function (req, res) {
   res.send('Guru Weds Keerthi')
 })
