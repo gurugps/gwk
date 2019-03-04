@@ -1,0 +1,15 @@
+var express = require('express')
+var app = express()
+
+var myLogger = function (req, res, next) {
+  console.log('LOGGED')
+  next()
+}
+
+app.use(myLogger)
+
+app.get('/index.html', function (req, res) {
+  res.send('Guru Weds Keerthi')
+})
+
+app.listen(3000)

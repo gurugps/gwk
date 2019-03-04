@@ -1,0 +1,15 @@
+{
+    "name": "guruwedskeerthi",
+    "description": "wedding invitation",
+    "version": "0.0.1",
+    "private": true,
+    "main": "app.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Guruprasath",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
