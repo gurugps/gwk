@@ -11,5 +11,3 @@ app.use(myLogger)
 app.get('/', function (req, res) {
   res.send('Guru Weds Keerthi')
 })
-
-app.listen(3000)
