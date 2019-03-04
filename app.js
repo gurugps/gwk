@@ -8,7 +8,7 @@ var myLogger = function (req, res, next) {
 
 app.use(myLogger)
 
-app.get('/index.html', function (req, res) {
+app.get('/', function (req, res) {
   res.send('Guru Weds Keerthi')
 })
 
