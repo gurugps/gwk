@@ -19,15 +19,15 @@
 	<link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
 	<!-- Vendor CSS -->
-	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.carousel.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.theme.default.min.css" />
-	<link rel="stylesheet" href="vendor/animate_css/animate.css" />
-	<link rel="stylesheet" href="vendor/magnific-popup/css/magnific-popup.css" />
-	<link rel="stylesheet" href="vendor/vegas/dist/vegas.min.css" />
+	<link rel="stylesheet" href="css/vendor/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.carousel.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="css/vendor/animate_css/animate.css" />
+	<link rel="stylesheet" href="css/vendor/magnific-popup/css/magnific-popup.css" />
+	<link rel="stylesheet" href="css/vendor/vegas/dist/vegas.min.css" />
 
 	<!-- Fonts CSS -->
-	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="css/vendor/font-awesome/css/font-awesome.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet" />
@@ -556,19 +556,19 @@
 	<!-- Scroll Up End -->
 
 	<!-- Frameworks -->
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="js/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="js/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Plugins -->
-	<script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-	<script src="vendor/vegas/dist/vegas.min.js"></script>
-	<script src="vendor/jquery-validation/js/jquery.validate.min.js"></script>
-	<script src="vendor/waypoint/js/jquery.waypoints.min.js"></script>
-	<script src="vendor/isotope/js/isotope.pkgd.min.js"></script>
-	<script src="vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
-	<script src="vendor/owlcarousel/js/owl.carousel.min.js"></script>
-	<script src="vendor/countup/js/countUp.min.js"></script>
-	<script src="vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
+	<script src="js/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+	<script src="js/vendor/vegas/dist/vegas.min.js"></script>
+	<script src="js/vendor/jquery-validation/js/jquery.validate.min.js"></script>
+	<script src="js/vendor/waypoint/js/jquery.waypoints.min.js"></script>
+	<script src="js/vendor/isotope/js/isotope.pkgd.min.js"></script>
+	<script src="js/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+	<script src="js/vendor/owlcarousel/js/owl.carousel.min.js"></script>
+	<script src="js/vendor/countup/js/countUp.min.js"></script>
+	<script src="js/vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
 
 	<!-- Theme Sett -->
 	<script src="js/main.js"></script>
