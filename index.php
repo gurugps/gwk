@@ -13,7 +13,7 @@
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpeg">
+	<meta property="og:image" content="https://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpg">
 
 	<!-- Favicon -->
 	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
