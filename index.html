@@ -14,6 +14,7 @@
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpg">
+	<meta property="og:description" content="PLEASE JOIN US FOR THE WEDDING">
 
 	<!-- Favicon -->
 	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
