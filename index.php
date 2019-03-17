@@ -5,11 +5,11 @@
 	<!-- Basic -->
 	<meta charset="utf-8" />
 	<meta name="keywords" content="HTML5 Template" />
-	<meta name="description" content="If I get married, I want to be very married." />
+	<meta name="description" content="PLEASE JOIN US FOR THE WEDDING" />
 	<meta name="author" content="Guru prasath" />
 
 	<!-- Page Title -->
-	<title>Wedding Invitation of guru and keerthika</title>
+	<title>Wedding Invitation of guru and keerthi</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
