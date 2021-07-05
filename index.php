@@ -9,11 +9,11 @@
 	<meta name="author" content="Guru prasath" />
 
 	<!-- Page Title -->
-	<title>Wedding Invitation of guru and keerthi</title>
+	<title>Wedding Invitation of madhan and nivedha</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-	<meta property="og:title" content="GuruWedsKeerthi" />
+	<meta property="og:title" content="MadhanWedsNivedha" />
 	<meta property="og:url" content="https://madhanwedsnivedha.herokuapp.com/" />
 	<meta property="og:image" content="http://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpg">
 	<meta property="og:description" content="PLEASE JOIN US FOR THE WEDDING">
@@ -137,7 +137,7 @@
 					</figure>
 					<div class="about-content col-sm-8 offset-sm-2">
 						<h4>
-							GuruPrasath
+							Prasath
 							<span class="custom-color">Groom</span>
 						</h4>
 						<p>
@@ -545,7 +545,7 @@
 			<div class="row">
 				<div class="col-lg-12 justify-content-center">
 					<p>
-						Guruprasath weds Keerthika Invitation Copyright 2019, All Rights
+						Madhan weds Nivedha Invitation Copyright 2019, All Rights
 						Reserved.
 					</p>
 				</div>
