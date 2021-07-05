@@ -14,7 +14,7 @@
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta property="og:title" content="GuruWedsKeerthi" />
-	<meta property="og:url" content="https://guruprasathwedskeerthika.herokuapp.com/" />
+	<meta property="og:url" content="https://madhanwedsnivedha.herokuapp.com/" />
 	<meta property="og:image" content="http://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpg">
 	<meta property="og:description" content="PLEASE JOIN US FOR THE WEDDING">
 	<meta property="og:type" content="website" />
