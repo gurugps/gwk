@@ -9,17 +9,17 @@ var myLogger = function (req, res, next) {
 app.use(myLogger)
 
 app.get('/img/', function (req, res) {
-  res.send('Guru Weds Keerthi')
+  res.send('Madhan Weds Nivedha')
 })
 
 app.get('/vendor/', function (req, res) {
-  res.send('Guru Weds Keerthi')
+  res.send('Madhan Weds Nivedha')
 })
 
 app.get('/js/', function (req, res) {
-  res.send('Guru Weds Keerthi')
+  res.send('Madhan Weds Nivedha')
 })
 
 app.get('/css/', function (req, res) {
-  res.send('Guru Weds Keerthi')
+  res.send('Madhan Weds Nivedha')
 })
