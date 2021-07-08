@@ -24,15 +24,15 @@
 	<link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
 	<!-- Vendor CSS -->
-	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.carousel.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.theme.default.min.css" />
-	<link rel="stylesheet" href="vendor/animate_css/animate.css" />
-	<link rel="stylesheet" href="vendor/magnific-popup/css/magnific-popup.css" />
-	<link rel="stylesheet" href="vendor/vegas/dist/vegas.min.css" />
+	<link rel="stylesheet" href="css/vendor/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.carousel.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="css/vendor/animate_css/animate.css" />
+	<link rel="stylesheet" href="css/vendor/magnific-popup/css/magnific-popup.css" />
+	<link rel="stylesheet" href="css/vendor/vegas/dist/vegas.min.css" />
 
 	<!-- Fonts CSS -->
-	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="css/vendor/font-awesome/css/font-awesome.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet" />
