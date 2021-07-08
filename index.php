@@ -685,19 +685,19 @@
 	<!-- Scroll Up End -->
 
 	<!-- Frameworks -->
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="js/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="js/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Plugins -->
-	<script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-	<script src="vendor/vegas/dist/vegas.min.js"></script>
-	<script src="vendor/jquery-validation/js/jquery.validate.min.js"></script>
-	<script src="vendor/waypoint/js/jquery.waypoints.min.js"></script>
-	<script src="vendor/isotope/js/isotope.pkgd.min.js"></script>
-	<script src="vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
-	<script src="vendor/owlcarousel/js/owl.carousel.min.js"></script>
-	<script src="vendor/countup/js/countUp.min.js"></script>
-	<script src="vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
+	<script src="js/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+	<script src="js/vendor/vegas/dist/vegas.min.js"></script>
+	<script src="js/vendor/jquery-validation/js/jquery.validate.min.js"></script>
+	<script src="js/vendor/waypoint/js/jquery.waypoints.min.js"></script>
+	<script src="js/vendor/isotope/js/isotope.pkgd.min.js"></script>
+	<script src="js/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+	<script src="js/vendor/owlcarousel/js/owl.carousel.min.js"></script>
+	<script src="js/vendor/countup/js/countUp.min.js"></script>
+	<script src="js/vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
 
 	<!-- Theme Sett -->
 	<script src="js/main.js"></script>
