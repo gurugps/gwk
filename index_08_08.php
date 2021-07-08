@@ -6,16 +6,16 @@
 	<meta charset="utf-8" />
 	<meta name="keywords" content="HTML5 Template" />
 	<meta name="description" content="PLEASE JOIN US FOR THE WEDDING" />
-	<meta name="author" content="Madhan & Nivedha" />
+	<meta name="author" content="Guru prasath" />
 
 	<!-- Page Title -->
-	<title>Wedding Invitation of Madhan and Nivedha</title>
+	<title>Wedding Invitation of madhan and nivedha</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta property="og:title" content="MadhanWedsNivedha" />
-	<meta property="og:url" content="https://MadhanWedsNivedha.herokuapp.com/" />
-	<meta property="og:image" content="img/meta.jpg">
+	<meta property="og:url" content="https://madhanwedsnivedha.herokuapp.com/" />
+	<meta property="og:image" content="http://raw.githubusercontent.com/gurugps/gwk/master/img/meta_img.jpg">
 	<meta property="og:description" content="PLEASE JOIN US FOR THE WEDDING">
 	<meta property="og:type" content="website" />
 
@@ -24,15 +24,15 @@
 	<link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
 	<!-- Vendor CSS -->
-	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.carousel.min.css" />
-	<link rel="stylesheet" href="vendor/owlcarousel/css/owl.theme.default.min.css" />
-	<link rel="stylesheet" href="vendor/animate_css/animate.css" />
-	<link rel="stylesheet" href="vendor/magnific-popup/css/magnific-popup.css" />
-	<link rel="stylesheet" href="vendor/vegas/dist/vegas.min.css" />
+	<link rel="stylesheet" href="css/vendor/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.carousel.min.css" />
+	<link rel="stylesheet" href="css/vendor/owlcarousel/css/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="css/vendor/animate_css/animate.css" />
+	<link rel="stylesheet" href="css/vendor/magnific-popup/css/magnific-popup.css" />
+	<link rel="stylesheet" href="css/vendor/vegas/dist/vegas.min.css" />
 
 	<!-- Fonts CSS -->
-	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="css/vendor/font-awesome/css/font-awesome.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet" />
@@ -58,9 +58,9 @@
 					<div class="col col-lg-12 align-self-center">
 						<h1><span class="custom-color">W</span>edding</h1>
 						<div class="slider-text-holder">
-							<h2>Madhan & Nivedha</h2>
-							<p><span style="font-size:x-large;font-weight:bold;font-family:'Dancing Script',cursive">September <span class="custom-color">10th</span>
-									2K21</span></p>
+							<h2>Guru & Keerthi</h2>
+							<p><span style="font-size:x-large;font-weight:bold;font-family:'Dancing Script',cursive">April <span class="custom-color">10th</span>
+									2K19</span></p>
 							<div class="slider-img-holder"></div>
 						</div>
 
@@ -102,9 +102,9 @@
 						<li class="nav-item">
 							<a class="nav-link" href="#story">Story</a>
 						</li>
-						<!-- <li class="nav-item">
+						<li class="nav-item">
 							<a class="nav-link" href="#portfolio">Portfolio</a>
-						</li> -->
+						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#event">Event</a>
 						</li>
@@ -132,12 +132,12 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-6 text-center">
-					<!-- <figure>
+					<figure>
 						<img src="img/groom_338x338.jpg" alt="groom" class="img-fluid rounded-circle" />
-					</figure> -->
+					</figure>
 					<div class="about-content col-sm-8 offset-sm-2">
 						<h4>
-							Madhan
+							Prasath
 							<span class="custom-color">Groom</span>
 						</h4>
 						<p>
@@ -148,12 +148,12 @@
 					</div>
 				</div>
 				<div class="col-lg-6 text-center margin-xs-b-2 margin-sm-b-2">
-					<!-- <figure>
+					<figure>
 						<img src="img/bride_338x338.jpg" alt="bride" class="img-fluid rounded-circle" />
-					</figure> -->
+					</figure>
 					<div class="about-content col-sm-8 offset-sm-2">
 						<h4>
-							Nivedha
+							Keerthika
 							<span class="custom-color">Bride</span>
 						</h4>
 						<p>
@@ -221,7 +221,7 @@
 				</div>
 			</div>
 
-			<!-- <div class="timeline">
+			<div class="timeline">
 				<div class="row">
 					<div class="col-sm-12 col-md-6 pr-70 text-center">
 						<div class="tline-thumbnail story-img-1">
@@ -266,9 +266,9 @@
 					<div class="col-sm-12 col-md-6 pr-70 text-center">
 						<div class="tline-thumbnail story-img-3">
 							<div class="img-date-left">
-								<div class="day">10</div>
-								<div class="month">Sep</div>
-								<div class="year">2021</div>
+								<div class="day">20</div>
+								<div class="month">Jan</div>
+								<div class="year">2019</div>
 							</div>
 						</div>
 					</div>
@@ -288,8 +288,8 @@
 						<div class="tline-thumbnail story-img-4">
 							<div class="img-date-right">
 								<div class="day">10</div>
-								<div class="month">September</div>
-								<div class="year">2021</div>
+								<div class="month">April</div>
+								<div class="year">2019</div>
 							</div>
 						</div>
 					</div>
@@ -303,7 +303,7 @@
 						</p>
 					</div>
 				</div>
-			</div> -->
+			</div>
 		</div>
 	</section>
 	<!-- Story Section  End -->
@@ -344,7 +344,7 @@
 	</section>
 	<!-- Blog Section End -->
 	<!-- Portfolio Section -->
-	<!-- <section id="portfolio">
+	<section id="portfolio">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -360,8 +360,9 @@
 					</p>
 				</div>
 			</div>
-		</div>-->
-		<!-- Portfolio Nav
+		</div>
+
+		<!-- Portfolio Nav-->
 		<div class="container-fluid">
 			<div class="no-margin">
 				<div class="button-group filters-button-group margin-b-4">
@@ -371,10 +372,10 @@
 					<button class="button" data-filter=".videos">Videos</button>
 				</div>
 			</div>
-			 Portfolio Nav End -->
+			<!-- Portfolio Nav End -->
 
 			<!-- Portfolio Images -->
-			<!-- <div class="row grid">
+			<div class="row grid">
 				<div class="grid-item popup-gallery col-lg-3 col-md-6 col-sm-12 party transition" data-category="transition">
 					<div class="item">
 						<a href="img/portfolio_1.jpg">
@@ -471,10 +472,10 @@
 						</a>
 					</div>
 				</div>
-				
-			</div> -->
-		<!--</div>
-	</section> -->
+				<!-- Portfolio Images End -->
+			</div>
+		</div>
+	</section>
 	<!-- Portfolio Section End -->
 
 	<!-- Event Section -->
@@ -493,159 +494,34 @@
 						Love fills the moment and the moment begins eternity
 					</p>
 				</div>
-
-
-				<!-- event & location1 -->
-				<div class="col-lg-12 text-center">
-					<div class="card bg-light text-dark">
-					
-						<div class="card-body" style="text-align: left;">
-							<span style="font-weight: bold; color: #de037f;">Muhurtham</span><br> 
-							10th September 2021, 4:30 to 6:30 AM <br> 
-							Sri Kalyana Vigirtheeswarar Temple, Karur.
-						</div>
-							
-					</div>
-				</div>
-				
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-				<div class="col-lg-12 text-center">
-				<div class="card bg-light text-dark">
-					<div class="card-body" style="text-align: left;">
-						<div class="row">
-							<div class="col-lg-1 col-sm-1 col-2" style="text-align: left; ">
-							   <a href="https://goo.gl/maps/NXPLXpJVgw1sxQF7A" target="_blank">
-								<img src="img/map.svg" alt="map" width="32">
-							   </a>
-							</div>
-							<div class="col-lg-11 col-sm-11 col-10 text_lcn" style="text-align: left; padding-top: 5px;" >
-								<a href="https://goo.gl/maps/NXPLXpJVgw1sxQF7A" target="_blank" >
-								Map Location
-							    </a>
-							</div>
-						</div>
-					</div>
-				</div>
-				</div>
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-
-				<!-- event & location2 -->
-				<div class="col-lg-12 text-center">
-					<div class="card bg-light text-dark">
-					
-						<div class="card-body" style="text-align: left;">
-							<span style="font-weight: bold; color: #de037f;">Reception</span><br> 
-							11th September 2021, 6:00 to 9:00 PM <br> 
-							Kongu Thirumana Mandapam, Mohanur, Namakkal.
-						</div>
-							
-					</div>
-				</div>
-				
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-				<div class="col-lg-12 text-center">
-				<div class="card bg-light text-dark">
-					<div class="card-body" style="text-align: left;">
-						<div class="row">
-							<div class="col-lg-1 col-sm-1 col-2" style="text-align: left; ">
-							   <a href="https://goo.gl/maps/dMX8YktFaF8ANR8h9" target="_blank">
-								<img src="img/map.svg" alt="map" width="32">
-							   </a>
-							</div>
-							<div class="col-lg-11 col-sm-11 col-10 text_lcn" style="text-align: left; padding-top: 5px;" >
-								<a href="https://goo.gl/maps/dMX8YktFaF8ANR8h9" target="_blank" >
-								Map Location
-							    </a>
-							</div>
-						</div>
-					</div>
-				</div>
-				</div>
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-
-				<!-- event & location3 -->
-				<div class="col-lg-12 text-center">
-					<div class="card bg-light text-dark">
-					
-						<div class="card-body" style="text-align: left;">
-							<span style="font-weight: bold; color: #de037f;">Reception</span><br> 
-							16th September 2021, 6:00 to 9:00 PM <br> 
-							Sri Sai Vivaha Mahal, Coimbatore.
-
-						</div>
-							
-					</div>
-				</div>
-				
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-				<div class="col-lg-12 text-center">
-				<div class="card bg-light text-dark">
-					<div class="card-body" style="text-align: left;">
-						<div class="row">
-							<div class="col-lg-1 col-sm-1 col-2" style="text-align: left; ">
-							   <a href="https://goo.gl/maps/Qqpure73dvX8gZtd9" target="_blank">
-								<img src="img/map.svg" alt="map" width="32">
-							   </a>
-							</div>
-							<div class="col-lg-11 col-sm-11 col-10 text_lcn" style="text-align: left; padding-top: 5px;" >
-								<a href="https://goo.gl/maps/Qqpure73dvX8gZtd9" target="_blank" >
-								Map Location
-							    </a>
-							</div>
-						</div>
-					</div>
-				</div>
-				</div>
-				<div class="col-lg-12 text-center">
-					<div style="padding-bottom: 10px;"></div>
-				</div>
-
-
-
-				<!-- <div _ngcontent-ous-c21="" class="my-3">-->
-
-
-				<!-- <div class="col-lg-6" style="padding-left:15%;">
+				<div class="col-lg-6" style="padding-left:15%;">
 					<div id="collapse_1" class="panel-collapse collapse show" role="tabpanel" aria-labelledby="headingOne">
 						<div class="panel-body" style="text-align: center;font-size:x-large;padding-top:0">
 							<p><span style="font-size:x-large;font-weight:800;font-family:'Dancing Script',cursive">
-									<span class="custom-color">Madhan</span><br>
+									<span class="custom-color">GuruPrasath</span><br>
 									and <br>
-									<span class="custom-color">Nivedha</span> <br>
+									<span class="custom-color">Keerthika</span> <br>
 									Joyfully invite you to share in their happiness as they unite in marriage
 									<br>
-									On Wednesday, September 10th, 2021. 
+									On Wednesday, April 10th, 2K19
 									<br>
-									4:30 to 6:30 in the Morning
+									at 10 o’clock in the Morning
 									<br>
 								</span>
 							</p>
 						</div>
 					</div>
-				</div> -->
-				<!-- <div class="col-lg-6" style="padding-left:15%;">
+				</div>
+				<div class="col-lg-6" style="padding-left:15%;">
 					<div class="panel-heading" id="headingTwo">
 						<h5 class="custom-color panel-title">Marriage Hall Location</h5>
 					</div>
 					<div id="collapse_2" class="panel-collapse collapse show" role="tabpanel" aria-labelledby="headingTwo">
 						<div class="panel-body">
 							<p>
-								Sri Kalyana Vigirtheeswarar Temple, Karur.
+								Thai mukambigai mandapam, <br>
+								Mapilai vinayagar theatre backside,<br>opposite to jeyaram bakery,<br>
+								Theni road,kalavasal stop,madurai
 							</p>
 							<a class="link" target="_blank" href="https://www.google.com/maps/search/?api=1&query=Thai+Moogambigai+Thirumana+Maligai,Theni+Main+Rd,Chavadi,Bethaniyapuram,Madurai, Tamil+Nadu,625016">
 								<span class="custom-color">
@@ -653,15 +529,15 @@
 							</a>
 						</div>
 					</div>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</section>
 	<!-- Event Section End -->
 
 	<!-- Google Map Full Width Section -->
-	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2210.5425814011596!2d78.0933822304662!3d9.93159119390964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00cf69844c1dd7%3A0xaedffed5720c8cd5!2sThai+Moogambigai+Thirumana+Maligai!5e0!3m2!1sen!2sin!4v1551111394847"
-	 width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2210.5425814011596!2d78.0933822304662!3d9.93159119390964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00cf69844c1dd7%3A0xaedffed5720c8cd5!2sThai+Moogambigai+Thirumana+Maligai!5e0!3m2!1sen!2sin!4v1551111394847"
+	 width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 	<!-- Footer Bottom -->
 	<div id="footer-bottom">
@@ -669,7 +545,7 @@
 			<div class="row">
 				<div class="col-lg-12 justify-content-center">
 					<p>
-						Madhan weds Nivedha Invitation Copyright 2021, All Rights
+						Madhan weds Nivedha Invitation Copyright 2019, All Rights
 						Reserved.
 					</p>
 				</div>
@@ -685,19 +561,19 @@
 	<!-- Scroll Up End -->
 
 	<!-- Frameworks -->
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="js/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="js/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Plugins -->
-	<script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-	<script src="vendor/vegas/dist/vegas.min.js"></script>
-	<script src="vendor/jquery-validation/js/jquery.validate.min.js"></script>
-	<script src="vendor/waypoint/js/jquery.waypoints.min.js"></script>
-	<script src="vendor/isotope/js/isotope.pkgd.min.js"></script>
-	<script src="vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
-	<script src="vendor/owlcarousel/js/owl.carousel.min.js"></script>
-	<script src="vendor/countup/js/countUp.min.js"></script>
-	<script src="vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
+	<script src="js/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+	<script src="js/vendor/vegas/dist/vegas.min.js"></script>
+	<script src="js/vendor/jquery-validation/js/jquery.validate.min.js"></script>
+	<script src="js/vendor/waypoint/js/jquery.waypoints.min.js"></script>
+	<script src="js/vendor/isotope/js/isotope.pkgd.min.js"></script>
+	<script src="js/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+	<script src="js/vendor/owlcarousel/js/owl.carousel.min.js"></script>
+	<script src="js/vendor/countup/js/countUp.min.js"></script>
+	<script src="js/vendor/jquery.scrollTo/jquery.scrollTo.min.js"></script>
 
 	<!-- Theme Sett -->
 	<script src="js/main.js"></script>
