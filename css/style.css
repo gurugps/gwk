@@ -644,7 +644,7 @@ footer h2 {
 /* 7 Comment Section
 ==================================================== */
 #comment {
-	background: url("../img/comment_bg.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+	background: url("../img/banner.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
 }
 
 #comment h3 {
@@ -668,11 +668,11 @@ footer h2 {
 ==================================================== */
 
 /*story section images*/
-.story-img-1 {
-	background: url("../img/story_1.jpg") no-repeat scroll top center / cover rgba(0, 0, 0, 0);
-}
+ /* .story-img-1 {
+	background: url("../img/banner.jpg") no-repeat scroll top center / cover rgba(0, 0, 0, 0);
+} */
 
-.story-img-2 {
+/*.story-img-2 {
 	background: url("../img/story_2.jpg") no-repeat scroll top center / cover rgba(0, 0, 0, 0);
 }
 
@@ -682,7 +682,7 @@ footer h2 {
 
 .story-img-4 {
 	background: url("../img/story_4.jpg") no-repeat scroll top center / cover rgba(0, 0, 0, 0);
-}
+} */
 
 .story-img {
 	height: 14rem;
@@ -862,7 +862,7 @@ footer h2 {
 /* 9 Blog Section
 ==================================================== */
 #blog {
-	background: url("../img/blog_bg.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+	background: url("../img/banner.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
 	padding-bottom: 1rem !important;
 }
 
@@ -911,7 +911,7 @@ footer h2 {
 /* 11 Twitter Section
 ==================================================== */
 #twitter {
-	background: url("../img/blog_bg.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+	background: url("../img/banner.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
 	color: #fff;
 }
 
@@ -1993,4 +1993,15 @@ select.form-control:not([size]):not([multiple]) {
 		padding: 0;
 	}
 
+}
+
+.card{
+	color: rgba(45, 44, 53, 1);
+    font-family: 'Raleway', sans-serif;
+}
+.text_lcn a{
+	color: rgba(45, 44, 53, 1) !important;
+}
+.text_lcn a:visited{
+	color: rgba(45, 44, 53, 1) !important;
 }

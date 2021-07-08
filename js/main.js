@@ -54,10 +54,10 @@ $(document).ready(function() {
     		transition: 'fade2',
     		transitionDuration: 4000,
     		slides: [
-    			{ src: "./img/portfolio_1.jpg" },
-    			{ src: "./img/portfolio_2.jpg" },
-    			{ src: "./img/portfolio_3.jpg" },
-    			{ src: "./img/portfolio_4.jpg" }
+    			{ src: "./img/banner.jpg" },
+    			// { src: "./img/portfolio_2.jpg" },
+    			// { src: "./img/portfolio_3.jpg" },
+    			// { src: "./img/portfolio_4.jpg" }
     		]
     	});
     }
@@ -105,7 +105,7 @@ $(document).ready(function() {
 		
 	if( $('#countdown').length ) {
 		// Set the date we're counting down to
-		var countDownDate = Date.parse('10 Apr 2019 15:30:00');
+		var countDownDate = Date.parse('10 Sep 2021 04:30:00');
 		
 		// Update the count down every 1 second
 		var x = setInterval(function() {
