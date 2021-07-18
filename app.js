@@ -8,11 +8,15 @@ var myLogger = function (req, res, next) {
 
 app.use(myLogger)
 
-app.get('/img/', function (req, res) {
+app.get('/images/', function (req, res) {
   res.send('Madhan Weds Nivedha')
 })
 
 app.get('/vendor/', function (req, res) {
+  res.send('Madhan Weds Nivedha')
+})
+
+app.get('/fonts/', function (req, res) {
   res.send('Madhan Weds Nivedha')
 })
 
