@@ -4,6 +4,7 @@
         <title>Madhan & Nivedha Wedding Sep 10th</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta property="og:image" content="https://madhanwedsnivedha.herokuapp.com/images/weddingbanner.jpg" />
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <link rel="stylesheet" href="css/fontawesome.css" />
         <link rel="stylesheet" href="css/style.css" />
@@ -14,19 +15,19 @@
     <body>
         <div class="container pt-5">
             <div class="row">
-                <div class="col-sm-4 text-center"></div>
-                <div class="col-sm-4">
+<!--                <div class="col-sm-4 text-center"></div>-->
+                <div class="col-sm-12">
                     <img src="images/weddingbanner.jpg" class="img-fluid" />
                 </div>
-                <div class="col-sm-4 text-center"></div>
+<!--                <div class="col-sm-4 text-center"></div>-->
             </div>
 
             <div class="card bg-light detailssection mt-5 shadow-sm">
                 <div class="card-body">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h5 class="card-title">Muhurtham</h5>
-                           <small> <p class="card-text">10<sup>th</sup> September 2021, 4:30 AM to 6:30 AM</p>
+                            <h5 class="card-title">MUHURTHAM</h5>
+                           <small> <p class="card-text">10<sup>th</sup> September 2021, 4:30 AM to 6:00 AM</p>
                             <p class="card-text">Sri Kalyana Vigirtheeswarar Temple, Karur.</p></small>
                         </div>                       
                     </div>
@@ -34,16 +35,16 @@
             </div>
 			
 			<button class="btn btn-default ourbutton" id="button1">
-				 	<img src="images/google_map.svg" width="32" style="    margin-right: 22px;"/> Map Location
+				 	<img src="images/google_map.svg" width="32" style="margin-right: 22px;"/> Map Location
 			</button>
 			
 			<div class="card bg-light detailssection mt-2 shadow-sm">
                 <div class="card-body">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h5 class="card-title">Reception</h5>
+                            <h5 class="card-title">RECEPTION</h5>
                            <small> <p class="card-text">11<sup>th</sup> September 2021, 6:00 PM to 9:00 PM</p>
-                            <p class="card-text">Kongu Thirumana Mandapam, Mohanur, Namakkal.</p></small>
+                            <p class="card-text">Kongu Thirumana Maaligai, Mohanur, Namakkal.</p></small>
                         </div>                       
                     </div>
                 </div>
@@ -58,7 +59,7 @@
                 <div class="card-body">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h5 class="card-title">Reception</h5>
+                            <h5 class="card-title">RECEPTION</h5>
                             <small><p class="card-text">16<sup>th</sup> September 2021, 6:00 PM to 9:00 PM</p>
                             <p class="card-text">Sri Sai Vivaha Mahal, Coimbatore.</p></small>
                         </div>                       
@@ -66,16 +67,16 @@
                 </div>
             </div>
 			
-			<button class="btn btn-default ourbutton" id="button2">
-				 	<img src="images/google_map.svg" width="32" style="    margin-right: 22px;"/> Map Location
+			<button class="btn btn-default ourbutton" id="button3">
+				 	<img src="images/google_map.svg" width="32" style="margin-right: 22px;"/> Map Location
 			</button>
 
 
             <div class="card bg-light footerlinks mt-2 py-2 mb-4 shadow-sm">
                 <div class="card-body">
-                    <div class="row">
-                        <div class="col-sm-6 col-xs-6 text-center iconsection">
-                            <a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscnv.io%2Fm17p%3Fqr%3D2" target="_blank">
+                    <div class="row justify-content-around">
+                        <div class="text-center">
+                            <a href="https://facebook.com/sharer/sharer.php?u=https://madhanwedsnivedha.herokuapp.com/" target="_blank">
                                 <svg role="img" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="svg-inline--fa fa-facebook-f fa-w-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
                                     <path
                                         fill="currentColor"
@@ -84,8 +85,8 @@
                                 </svg>
                             </a>
                         </div>
-                        <div class="col-sm-6 col-xs-6 text-center footerlinks1">
-                            <a target="_blank" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fscnv.io%2Fm17p%3Fqr%3D2">
+                        <div class="text-center footerlinks1">
+                            <a target="_blank" href="https://api.whatsapp.com/send?text=https://madhanwedsnivedha.herokuapp.com/">
                                 <svg role="img" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" class="svg-inline--fa fa-whatsapp fa-w-14" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                                     <path
                                         fill="currentColor"
